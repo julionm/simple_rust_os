@@ -1,0 +1,7 @@
+[package]
+name = "no_std_learnings"
+version = "0.1.0"
+edition = "2021"
+authors = ["Julio Negri <julionm60@gmail.com>"]
+
+[dependencies]
