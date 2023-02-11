@@ -5,3 +5,5 @@ edition = "2021"
 authors = ["Julio Negri <julionm60@gmail.com>"]
 
 [dependencies]
+bootloader = "0.11.0"
+bootloader_api = "0.11.0"
